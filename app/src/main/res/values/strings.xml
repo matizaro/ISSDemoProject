@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ISSDemoProject</string>
+    <string name="mapbox_key">pk.eyJ1IjoibWF0aXphcm8iLCJhIjoiY2ppcmlnMm9xMGM3ODNzcGtjMjJ1dDB3dyJ9.zK1T6Utgc6QBc2607MmN9Q</string>
+    <string name="no_last_position">there is no last position</string>
+    <string name="refresh_error">could not refresh the data</string>
+    <string name="last_date">Last updated time:</string>
+</resources>
